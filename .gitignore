@@ -1,0 +1,29 @@
+# Java and Gradle
+/build/
+/.gradle/
+/out/
+*.class
+*.jar
+*.war
+*.ear
+
+# IDEs
+/.idea/
+*.iml
+*.ipr
+*.iws
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment
+.env
+
+# Others
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+
